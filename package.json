@@ -1,0 +1,28 @@
+{
+  "name": "ink-calendar-lite",
+  "version": "1.0.0",
+  "description": "ライバーのイベント予定をファンと共有できる予定表ジェネレーター by Ink Inc.",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fullcalendar/core": "^6.1.20",
+    "@fullcalendar/daygrid": "^6.1.20",
+    "@fullcalendar/interaction": "^6.1.20",
+    "@fullcalendar/react": "^6.1.20",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.2"
+  },
+  "author": "黒井葉跡 (Ink Inc.)",
+  "license": "MIT"
+}
