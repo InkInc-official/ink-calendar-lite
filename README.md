@@ -56,3 +56,7 @@ MIT — © 2026 黒井葉跡 (Ink Inc.)
 ---
 
 *Ink Inc. | AI Creation, Human Care. The Future Drawn Together.*
+
+---
+
+Created by **Ink Inc.** / 黒井葉跡 (Kuroi Haato) — https://inkinc-hp.pages.dev/
